@@ -29,24 +29,25 @@ async def start(update: Update, context: ContextTypes.DEFAULT_TYPE):
     )
 
 async def proximos_jogos(update: Update, context: ContextTypes.DEFAULT_TYPE):
-
     await update.message.reply_text(
         "Os próximos jogos da nossa line serão:\n"
     )
     #REQ - API Gateway
+    #Impressão do JSON devolvido
 
 async def estatisticas(update: Update, context: ContextTypes.DEFAULT_TYPE):
-    #fazer o request do S3 e retornar com as infos colhidas
     await update.message.reply_text(
         "Essas são as últimas estatísticas do nosso time de CS2\n"
     )
     #REQ - API Gateway
+    #Impressão do JSON devolvido
 
 async def resultados(update: Update, context: ContextTypes.DEFAULT_TYPE):
     await update.message.reply_text(
         "Partidas passadas:\n"
     )
     #REQ - API Gateway
+    #Impressão do JSON devolvido
 
 async def redes(update: Update, context: ContextTypes.DEFAULT_TYPE):
     await update.message.reply_text(
