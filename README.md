@@ -60,7 +60,13 @@ Este comando foi dedicado para o usuário ficar inteirado sobre informações da
 Esses retornos estão anexados dentro do Dynamo, que serão obtidos por um método GET.
 
 # Caso 3:
-Comportamento similar ao *Caso 2* porém ao invés de retornar as estatística será devolvido os resultados dos últimos jogos, atribuindo assim placares, adversários e qual torneio.
+Comportamento similar ao *Caso 2* porém ao invés de retornar as estatística será devolvido:
+
+  > Placares;
+  > Adversários;
+  > Torneio;
 
 # Caso 4: 
-Quando o usuário optar por este comando, será encaminhado uma mensagem com as redes sociais da *FURIA*. Nossa intenção foi simples: Dependendo do usuário, talvez ele não siga as redes, deixando-o desinformado sobre os acontecimentos recentes, resultados e outras lines como por ex. a de R6, Rocket League ou Valorant. - Com isso, nos importamos em disponibilizar todo e qualquer meio de comunicação que um torcedor possa ficar por dentro de novidades, não se limitando apenas ao CS2, mas sim envolvendo-o em todo o ambiente FURIA.
+Quando o usuário optar por este comando, será encaminhado uma mensagem com as redes sociais da *FURIA*. Nossa intenção foi simples: Dependendo do usuário, talvez ele não siga as redes, deixando-o desinformado sobre os acontecimentos recentes, resultados e outras lines como por ex. a de R6, Rocket League ou Valorant. - 
+
+Logo, nos importamos em disponibilizar todo e qualquer meio de comunicação que um torcedor possa ficar por dentro de novidades, não se limitando apenas ao CS2, mas sim envolvendo-o em todo o ambiente FURIA.
